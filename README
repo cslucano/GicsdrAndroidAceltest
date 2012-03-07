@@ -1,0 +1,13 @@
+Proyecto demostrativo del uso de los acelerometros.
+
+TODO
+GUI
+- Poner los labels adecuados a cada valor
+- Agruparlo, por valores de sensor y valor calculados para las distancias halladas
+
+Otros
+- Agregar a los desarrolladores, nombres y emails.
+- Agregar la licencia a cada archivo creado LGPL v.3 supongo.
+- Hallar el bugs que presenta la aplicacion en el calculos de la distancia.
+
+
