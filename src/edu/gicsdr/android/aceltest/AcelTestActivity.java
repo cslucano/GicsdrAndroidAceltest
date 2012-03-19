@@ -76,13 +76,11 @@ public class AcelTestActivity extends Activity implements SensorEventListener {
 		tvZac.setText(String.format("%.2f", linear_acceleration[2]));
 	}
 
-	@Override
 	public void onAccuracyChanged(Sensor arg0, int arg1) {
 		// TODO Auto-generated method stub
 
 	}
 
-	@Override
 	public void onSensorChanged(SensorEvent event) {
 		// TODO Auto-generated method stub
 
